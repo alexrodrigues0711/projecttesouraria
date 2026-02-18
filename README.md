@@ -118,5 +118,4 @@ scikit-learn
 
 ## Autor
 
-**Alexandre Souza** — Analista Atuarial de Precificação  
-[Pure Stats](https://www.instagram.com/purestats) · GitHub
+**Alexandre Souza** 
